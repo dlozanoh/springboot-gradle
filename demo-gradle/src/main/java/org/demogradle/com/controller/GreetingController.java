@@ -1,4 +1,4 @@
-package org.demogradle.com.hello;
+package org.demogradle.com.controller;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
